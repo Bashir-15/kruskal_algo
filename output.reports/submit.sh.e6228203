@@ -1,0 +1,7 @@
+[cl003:29328] ras:gridengine: JOB_ID: 6228203
+[cl013:07909] *** Process received signal ***
+[cl013:07909] Signal: Segmentation fault (11)
+[cl013:07909] Signal code: Address not mapped (1)
+[cl013:07909] Failing at address: 0x2a97e24750
+[cl013:07909] *** End of error message ***
+mpirun noticed that job rank 0 with PID 29347 on node cl003 exited on signal 15 (Terminated). 

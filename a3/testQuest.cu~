@@ -1,0 +1,48 @@
+/**
+
+Andrew Atkinson
+3229071
+Assignment 3 Question 1
+
+**/
+
+
+#include <math.h>
+#include <stdio.h>
+#include <time.h>
+
+#define N 16
+
+__global__ void findArea( int *a, int *b, int *c){
+
+		*c = *a + *b;
+}
+
+int main( int argc, char *argv[]){
+
+	int a = atoi(argv[1]), b = atoi(argv[2]), c;
+
+	int intSize = sizeof(int);
+
+	int *d_a, *d_b, *d_c;
+
+	cudaMalloc((void **) &d_a, intSize);
+	cudaMalloc((void **) &d_b, intSize);
+	cudaMalloc((void **) &d_c, intSize);
+
+	cudaMemcpy(d_a, &a, sizeof(int), cudaMemcpyHostToDevice);
+	cudaMemcpy(d_b, &b, sizeof(int), cudaMemcpyHostToDevice);
+
+	printf("here\n");
+
+	findArea<<<1,1>>>( d_a, d_b, d_c);
+
+	cudaMemcpy(&c, d_c, intSize, cudaMemcpyDeviceToHost);
+
+
+	printf("\nc = %d\n", c);
+
+	cudaFree(d_a);
+	cudaFree(d_b);
+	cudaFree(d_c);
+}

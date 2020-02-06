@@ -1,0 +1,61 @@
+[cl003:29626] ras:gridengine: JOB_ID: 6228155
+[cl003:29626] ERROR: A daemon on node cl013.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl034.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl014.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl006 failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl026.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl019.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl023.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl017.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl037.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.
+[cl003:29626] ERROR: A daemon on node cl020.unb.acenet.ca failed to start as expected.
+[cl003:29626] ERROR: There may be more information available from
+[cl003:29626] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl003:29626] ERROR: If the problem persists, please restart the
+[cl003:29626] ERROR: Grid Engine PE job
+[cl003:29626] ERROR: The daemon exited unexpectedly with status 137.

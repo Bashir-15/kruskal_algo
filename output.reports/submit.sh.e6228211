@@ -1,0 +1,8 @@
+[cl003:17675] ras:gridengine: JOB_ID: 6228211
+[cl015:29773] *** Process received signal ***
+[cl015:29773] Signal: Segmentation fault (11)
+[cl015:29773] Signal code: Address not mapped (1)
+[cl015:29773] Failing at address: 0x2a983bf750
+[cl015:29773] *** End of error message ***
+[cl003:17675] [0,0,0]-[0,1,80] mca_oob_tcp_msg_recv: readv failed: Connection reset by peer (104)
+mpirun noticed that job rank 0 with PID 17703 on node cl003 exited on signal 15 (Terminated). 

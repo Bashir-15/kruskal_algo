@@ -1,0 +1,17 @@
+[cl008:19307] ras:gridengine: JOB_ID: 6228154
+Warning: Permanently added 'cl013.unb.acenet.ca,10.40.20.13' (RSA) to the list of known hosts.
+Warning: Permanently added 'cl012,10.40.20.12' (RSA) to the list of known hosts.
+Warning: Permanently added 'cl017.unb.acenet.ca,10.40.20.17' (RSA) to the list of known hosts.
+Warning: Permanently added 'cl020.unb.acenet.ca,10.40.20.20' (RSA) to the list of known hosts.
+[cl008:19307] ERROR: A daemon on node cl015.unb.acenet.ca failed to start as expected.
+[cl008:19307] ERROR: There may be more information available from
+[cl008:19307] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl008:19307] ERROR: If the problem persists, please restart the
+[cl008:19307] ERROR: Grid Engine PE job
+[cl008:19307] ERROR: The daemon exited unexpectedly with status 137.
+[cl008:19307] ERROR: A daemon on node cl017.unb.acenet.ca failed to start as expected.
+[cl008:19307] ERROR: There may be more information available from
+[cl008:19307] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl008:19307] ERROR: If the problem persists, please restart the
+[cl008:19307] ERROR: Grid Engine PE job
+[cl008:19307] ERROR: The daemon exited unexpectedly with status 137.

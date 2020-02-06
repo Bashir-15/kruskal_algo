@@ -1,0 +1,4 @@
+#!/bin/bash
+
+nvcc -o q1t100.out q1.cu
+

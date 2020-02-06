@@ -1,0 +1,5 @@
+#!/bin/bash
+#$ -cwd
+#$ -l h_rt=00:01:00
+#$ -pe ompi 4
+mpirun q2 $1

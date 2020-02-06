@@ -1,0 +1,15 @@
+#!/bin/bash
+
+NUMBER_SUBMISSIONS=10
+INDEX=2
+SUBMISSION_VAL=1000
+
+while [ $NUMBER_SUBMISSIONS -gt 0 ]; do
+	while [ $INDEX -lt 2048 ]; do
+		qsub -v ARG1=$SUBMISSION_VAL -pe ompi $INDEX submit.sh
+		INDEX=$((INDEX*2))
+	done
+        SUBMISSION_VAL=$((SUBMISSION_VAL/5))
+        NUMBER_SUBMISSIONS=$((NUMBER_SUBMISSIONS-1))
+	INDEX=2
+done

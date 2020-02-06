@@ -1,0 +1,14 @@
+#!/bin/bash
+
+$NUMBER_SUBMISSIONS = 9
+$SUBMISSION_VAL = 2
+
+while [ $NUMBER_SUBMISSIONS > 0]
+do
+	qsub submit.sh -vARG1=$SUBMISSION_VAL
+	if [ !$((NUMBER_SUBMISSIONS%3)) ]
+	then
+		$SUBMISSION_VAL = $((SUBMISSION_VAL/2))
+	fi
+	$((--NUMBER_SUBMISSIONS))
+done

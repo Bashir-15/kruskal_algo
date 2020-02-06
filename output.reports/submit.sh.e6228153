@@ -1,0 +1,19 @@
+[cl015:26162] ras:gridengine: JOB_ID: 6228153
+[cl015:26162] ERROR: A daemon on node cl030.unb.acenet.ca failed to start as expected.
+[cl015:26162] ERROR: There may be more information available from
+[cl015:26162] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl015:26162] ERROR: If the problem persists, please restart the
+[cl015:26162] ERROR: Grid Engine PE job
+[cl015:26162] ERROR: The daemon exited unexpectedly with status 137.
+[cl015:26162] ERROR: A daemon on node cl035.unb.acenet.ca failed to start as expected.
+[cl015:26162] ERROR: There may be more information available from
+[cl015:26162] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl015:26162] ERROR: If the problem persists, please restart the
+[cl015:26162] ERROR: Grid Engine PE job
+[cl015:26162] ERROR: The daemon exited unexpectedly with status 137.
+[cl015:26162] ERROR: A daemon on node cl031.unb.acenet.ca failed to start as expected.
+[cl015:26162] ERROR: There may be more information available from
+[cl015:26162] ERROR: the 'qstat -t' command on the Grid Engine tasks.
+[cl015:26162] ERROR: If the problem persists, please restart the
+[cl015:26162] ERROR: Grid Engine PE job
+[cl015:26162] ERROR: The daemon exited unexpectedly with status 137.
