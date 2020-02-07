@@ -1,0 +1,17 @@
+# Libraries
+
+https://github.com/vinta/awesome-python
+
+https://github.com/scrapy/scrapy
+
+https://github.com/secdev/scapy
+
+https://github.com/johanlundberg/python-nmap
+
+https://github.com/wention/BeautifulSoup4
+
+https://github.com/VirusTotal/yara-python
+
+https://github.com/anishida/lis
+
+https://github.com/NVIDIA/cnmem

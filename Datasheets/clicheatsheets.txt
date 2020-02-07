@@ -1,0 +1,15 @@
+#CLI Cheatsheets/Programming language data
+
+https://www.python-course.eu/python3_recursive_functions.php
+
+https://curiousprogrammer.io/blog/cisco-asa-cheat-sheet
+
+https://www.cisco.com/c/en/us/td/docs/security/esa/esa10-0/cli/b_CLI_Reference_Guide.pdf
+
+https://www.cisco.com/c/en/us/td/docs/security/esa/esa11-0/cli_reference_guide/b_CLI_Reference_Guide.html
+
+https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-0/cli_reference_guide/b_CLI_Reference_Guide_12_0/b_CLI_Reference_Guide_chapter_01.html
+
+https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-1/cli_reference_guide/b_CLI_Reference_Guide_12_1/b_CLI_Reference_Guide_12_1_index.html
+
+https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-5/cli_reference_guide/b_CLI_Reference_Guide_12_5.html
