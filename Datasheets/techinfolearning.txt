@@ -8,15 +8,21 @@ https://en.wikipedia.org/wiki/Language
 
 https://en.wikipedia.org/wiki/Translation
 
+https://en.wikipedia.org/wiki/Telecommunication
+
+https://en.wikipedia.org/wiki/IPv4
+
 https://en.wikipedia.org/wiki/Internet
 
-https://en.wikipedia.org/wiki/Telecommunication
+https://en.wikipedia.org/wiki/Relational_database
 
 https://en.wikipedia.org/wiki/Memory_management
 
 https://science.sciencemag.org/content/283/5406/1292.full
 
-https://en.wikipedia.org/wiki/IPv4
+https://en.wikipedia.org/wiki/Error_correction_code
+
+https://en.wikipedia.org/wiki/Optical_interleaver
 
 https://en.wikipedia.org/wiki/Regular_expression
 
