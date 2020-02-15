@@ -1,5 +1,7 @@
 # Libraries
 
+https://github.com/sympy/sympy
+
 https://github.com/vinta/awesome-python
 
 https://github.com/scrapy/scrapy
@@ -15,3 +17,5 @@ https://github.com/VirusTotal/yara-python
 https://github.com/anishida/lis
 
 https://github.com/NVIDIA/cnmem
+
+https://www.sympy.org/en/index.html
