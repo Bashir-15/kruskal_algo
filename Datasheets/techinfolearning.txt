@@ -2,6 +2,8 @@
 
 https://developer.nvidia.com/datacenter-management-gpu
 
+https://en.wikipedia.org/wiki/Bitwise_operation
+
 https://en.wikipedia.org/wiki/Nibble
 
 https://en.wikipedia.org/wiki/Language
@@ -82,8 +84,6 @@ https://en.wikipedia.org/wiki/Messier_13
 
 https://en.wikipedia.org/wiki/Messier_39
 
-
-
 https://en.wikipedia.org/wiki/Quasar
 
 https://en.wikipedia.org/wiki/Active_galactic_nucleus
@@ -117,6 +117,8 @@ https://worldbuilding.stackexchange.com/questions/23683/what-is-the-most-effecti
 https://en.wikipedia.org/wiki/Terraforming
 
 https://en.wikipedia.org/wiki/Abiogenesis
+
+https://en.wikipedia.org/wiki/Biology
 
 https://en.wikipedia.org/wiki/Life
 
@@ -166,16 +168,8 @@ https://en.wikipedia.org/wiki/Light
 
 https://en.wikipedia.org/wiki/Projection
 
-https://en.wikipedia.org/wiki/Compassion
-
-https://en.wikipedia.org/wiki/Honour
-
-https://en.wikipedia.org/wiki/Virtue
-
-https://en.wikipedia.org/wiki/Navigation
-
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255574/
 
 https://www.google.com/earth/
 
-https://en.wikipedia.org/wiki/Defense
+https://www.insidescience.org/news/future-interstellar-navigation-might-be-following-stars
