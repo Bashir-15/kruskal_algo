@@ -13,3 +13,9 @@ https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-0/cli_reference_guide/b
 https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-1/cli_reference_guide/b_CLI_Reference_Guide_12_1/b_CLI_Reference_Guide_12_1_index.html
 
 https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-5/cli_reference_guide/b_CLI_Reference_Guide_12_5.html
+
+https://www.postgresqltutorial.com/postgresql-cheat-sheet/
+
+https://www.mysqltutorial.org/mysql-cheat-sheet.aspx
+
+https://www.alachisoft.com/nosdb/sql-cheat-sheet.html
