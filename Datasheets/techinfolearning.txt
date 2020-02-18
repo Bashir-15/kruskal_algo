@@ -2,6 +2,8 @@
 
 https://developer.nvidia.com/datacenter-management-gpu
 
+https://pdfs.semanticscholar.org/d7dc/0d6d45fb1620d11137fab06aec8ecf05861f.pdf
+
 https://en.wikipedia.org/wiki/Bitwise_operation
 
 https://en.wikipedia.org/wiki/Nibble
