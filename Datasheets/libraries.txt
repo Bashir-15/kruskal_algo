@@ -1,5 +1,7 @@
 # Libraries
 
+https://github.com/CGAL/cgal
+
 https://github.com/sympy/sympy
 
 https://github.com/vinta/awesome-python
