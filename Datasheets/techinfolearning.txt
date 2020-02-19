@@ -1,5 +1,7 @@
 # Technology/Information/Learning
 
+https://en.wikipedia.org/wiki/Efficiency
+
 https://developer.nvidia.com/datacenter-management-gpu
 
 https://pdfs.semanticscholar.org/d7dc/0d6d45fb1620d11137fab06aec8ecf05861f.pdf
@@ -14,7 +16,7 @@ https://en.wikipedia.org/wiki/Translation
 
 https://en.wikipedia.org/wiki/Discrete_circuit
 
-https://en.wikipedia.org/wiki/Geometry
+https://en.wikipedia.org/wiki/ARM_architecture
 
 https://en.wikipedia.org/wiki/Telecommunication
 
@@ -31,6 +33,10 @@ https://science.sciencemag.org/content/283/5406/1292.full
 https://en.wikipedia.org/wiki/Error_correction_code
 
 https://en.wikipedia.org/wiki/Optical_interleaver
+
+https://en.wikipedia.org/wiki/Geometry
+
+https://en.wikipedia.org/wiki/CGAL
 
 https://en.wikipedia.org/wiki/Regular_expression
 
