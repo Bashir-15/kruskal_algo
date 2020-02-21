@@ -1,5 +1,7 @@
 # Technology/Information/Learning
 
+https://en.wikipedia.org/wiki/Computer_security
+
 https://en.wikipedia.org/wiki/Efficiency
 
 https://en.wikipedia.org/wiki/Synchronization_(computer_science)
@@ -143,6 +145,8 @@ https://en.wikipedia.org/wiki/Terraforming
 https://en.wikipedia.org/wiki/Abiogenesis
 
 https://en.wikipedia.org/wiki/Evolution
+
+https://en.wikipedia.org/wiki/Adaptation
 
 # Also applicable to medical, however linear progression of ideas and life support system is described below
 
