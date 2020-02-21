@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Language
 
 https://en.wikipedia.org/wiki/Translation
 
+https://en.wikipedia.org/wiki/Corrosion
+
 https://en.wikipedia.org/wiki/Discrete_circuit
 
 https://en.wikipedia.org/wiki/ARM_architecture
@@ -141,6 +143,8 @@ https://en.wikipedia.org/wiki/Terraforming
 https://en.wikipedia.org/wiki/Abiogenesis
 
 https://en.wikipedia.org/wiki/Evolution
+
+# Also applicable to medical, however linear progression of ideas and life support system is described below
 
 https://en.wikipedia.org/wiki/Healing_(disambiguation)
 
