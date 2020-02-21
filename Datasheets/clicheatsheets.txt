@@ -1,5 +1,11 @@
 #CLI Cheatsheets/Programming language data
 
+https://files.fosswire.com/2007/08/fwunixref.pdf
+
+https://gist.github.com/steakknife/77619edfa67c501c8aa0
+
+https://www.comparitech.com/net-admin/powershell-cheat-sheet/
+
 https://www.python-course.eu/python3_recursive_functions.php
 
 https://curiousprogrammer.io/blog/cisco-asa-cheat-sheet
