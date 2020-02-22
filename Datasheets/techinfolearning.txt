@@ -56,6 +56,12 @@ https://en.wikipedia.org/wiki/Process_Thinking
 
 https://en.wikipedia.org/wiki/Program_process_monitoring
 
+https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+
+https://en.wikipedia.org/wiki/Queueing_theory
+
+https://en.wikipedia.org/wiki/Priority_queue
+
 https://en.wikipedia.org/wiki/IPv6
 
 https://en.wikipedia.org/wiki/%CE%A9-automaton
@@ -171,6 +177,8 @@ https://en.wikipedia.org/wiki/Healing_(disambiguation)
 https://www.sciencedaily.com/releases/2015/04/150430170750.htm
 
 https://en.wikipedia.org/wiki/Cell_biology
+
+https://en.wikipedia.org/wiki/Assimilation_(biology)
 
 https://en.wikipedia.org/wiki/Biochemistry
 
