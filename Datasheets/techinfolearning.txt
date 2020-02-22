@@ -90,6 +90,12 @@ https://en.wikipedia.org/wiki/Star_system#Triple_star_systems
 
 # https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
 
+# https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
+
+https://en.wikipedia.org/wiki/Interstellar_travel
+
+https://en.wikipedia.org/wiki/Cyber-physical_system
+
 https://energyhub.org/efficiency/
 
 https://en.wikipedia.org/wiki/Solar_power
@@ -209,3 +215,7 @@ https://www.google.com/earth/
 https://www.insidescience.org/news/future-interstellar-navigation-might-be-following-stars
 
 https://en.wikipedia.org/wiki/Aeon
+
+https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium
+
+https://en.wikipedia.org/wiki/Plasma_(physics)
