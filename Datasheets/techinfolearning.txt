@@ -62,6 +62,8 @@ https://en.wikipedia.org/wiki/%CE%A9-automaton
 
 https://en.wikipedia.org/wiki/Linear_temporal_logic
 
+https://en.wikipedia.org/wiki/Wormhole
+
 https://en.wikipedia.org/wiki/Time_travel
 
 https://en.wikipedia.org/wiki/Relational_database
