@@ -235,3 +235,5 @@ https://en.wikipedia.org/wiki/Aeon
 https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium
 
 https://en.wikipedia.org/wiki/Plasma_(physics)
+
+https://en.wikipedia.org/wiki/Architecture
