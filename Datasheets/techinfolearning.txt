@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Efficiency
 
 https://en.wikipedia.org/wiki/Synchronization_(computer_science)
 
+https://en.wikipedia.org/wiki/Overhead_(computing)
+
 https://developer.nvidia.com/datacenter-management-gpu
 
 https://pdfs.semanticscholar.org/d7dc/0d6d45fb1620d11137fab06aec8ecf05861f.pdf
