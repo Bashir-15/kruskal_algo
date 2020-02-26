@@ -6,6 +6,10 @@ https://en.wikipedia.org/wiki/Efficiency
 
 https://en.wikipedia.org/wiki/Synchronization_(computer_science)
 
+https://en.wikipedia.org/wiki/Overhead_(computing)
+
+https://en.wikipedia.org/wiki/Load_balancing_(computing)
+
 https://developer.nvidia.com/datacenter-management-gpu
 
 https://pdfs.semanticscholar.org/d7dc/0d6d45fb1620d11137fab06aec8ecf05861f.pdf
@@ -62,6 +66,10 @@ https://en.wikipedia.org/wiki/Queueing_theory
 
 https://en.wikipedia.org/wiki/Priority_queue
 
+https://en.wikipedia.org/wiki/Computer_multitasking
+
+https://en.wikipedia.org/wiki/Parallel_computing
+
 https://en.wikipedia.org/wiki/IPv6
 
 https://en.wikipedia.org/wiki/%CE%A9-automaton
@@ -99,6 +107,8 @@ https://en.wikipedia.org/wiki/Star_system#Triple_star_systems
 # https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
 
 # https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
+
+https://en.wikipedia.org/wiki/Chemical_engineering
 
 https://en.wikipedia.org/wiki/Interstellar_travel
 
@@ -212,6 +222,8 @@ https://en.wikipedia.org/wiki/Human_voice
 
 https://en.wikipedia.org/wiki/Rest_(music)
 
+https://en.wikipedia.org/wiki/Computer_network
+
 https://en.wikipedia.org/wiki/Network
 
 https://en.wikipedia.org/wiki/Light
@@ -229,3 +241,5 @@ https://en.wikipedia.org/wiki/Aeon
 https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium
 
 https://en.wikipedia.org/wiki/Plasma_(physics)
+
+https://en.wikipedia.org/wiki/Architecture
