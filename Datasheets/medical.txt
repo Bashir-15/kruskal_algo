@@ -1,4 +1,4 @@
-https://en.wikipedia.org/wiki/Genetics_(journal)
+https://cat.fsl-bsf.scitech.gc.ca/record=1922256~S6
 https://www.researchgate.net/profile/Brian_Huntly/publication/7933293_Timeline_Leukaemia_stem_cells_and_the_evolution_of_cancer-stem-cell_research/links/55b6061108aec0e5f436d374/Timeline-Leukaemia-stem-cells-and-the-evolution-of-cancer-stem-cell-research.pdf
 https://en.wikipedia.org/wiki/Blood_substitutes
 https://en.wikipedia.org/wiki/Blood_transfusion
@@ -7,7 +7,6 @@ https://en.wikipedia.org/wiki/Immunotherapy
 https://en.wikipedia.org/wiki/Vaccination
 https://en.wikipedia.org/wiki/Antidote
 https://en.wikipedia.org/wiki/Cure
-https://en.wikipedia.org/wiki/Eradication_of_infectious_diseases
 https://en.wikipedia.org/wiki/Locked-in_syndrome
 https://en.wikipedia.org/wiki/Agonists
 https://www.sciencedirect.com/science/article/pii/S2210833511000566
