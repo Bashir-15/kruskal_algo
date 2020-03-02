@@ -7,7 +7,6 @@ https://en.wikipedia.org/wiki/Immunotherapy
 https://en.wikipedia.org/wiki/Vaccination
 https://en.wikipedia.org/wiki/Antidote
 https://en.wikipedia.org/wiki/Cure
-https://en.wikipedia.org/wiki/Locked-in_syndrome
 https://en.wikipedia.org/wiki/Agonists
 https://www.sciencedirect.com/science/article/pii/S2210833511000566
 https://en.wikipedia.org/wiki/Carbon_nanotube
@@ -15,4 +14,3 @@ https://en.wikipedia.org/wiki/Regeneration_(biology)
 https://en.wikipedia.org/wiki/Regeneration_in_humans
 https://en.wikipedia.org/wiki/Scar_free_healing#Continued_regeneration_in_adult_humans
 https://en.wikipedia.org/wiki/Bone_grafting
-https://en.wikipedia.org/wiki/Transgender
