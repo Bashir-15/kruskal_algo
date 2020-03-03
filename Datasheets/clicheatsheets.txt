@@ -22,6 +22,8 @@ https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-1/cli_reference_guide/b
 
 https://www.cisco.com/c/en/us/td/docs/security/esa/esa12-5/cli_reference_guide/b_CLI_Reference_Guide_12_5.html
 
+http://dl3.checkpoint.com/paid/c7/c76b823d81bab77e1e40ac086fa81411/CP_R77_versions_CLI_ReferenceGuide.pdf?HashKey=1583267566_b0b9f1e11b459c0b5daa1ba0d0428f06&xtn=.pdf
+
 https://www.postgresqltutorial.com/postgresql-cheat-sheet/
 
 https://www.mysqltutorial.org/mysql-cheat-sheet.aspx

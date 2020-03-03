@@ -1,5 +1,7 @@
 # Libraries
 
+https://github.com/hashicorp/terraform
+
 https://github.com/CGAL/cgal
 
 https://github.com/sympy/sympy
