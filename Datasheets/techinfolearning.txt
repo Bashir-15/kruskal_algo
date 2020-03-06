@@ -30,6 +30,10 @@ https://en.wikipedia.org/wiki/Discrete_circuit
 
 https://en.wikipedia.org/wiki/ARM_architecture
 
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+
+https://github.com/nvidia/open-gpu-doc
+
 https://en.wikipedia.org/wiki/Telecommunication
 
 https://en.wikipedia.org/wiki/IPv4
