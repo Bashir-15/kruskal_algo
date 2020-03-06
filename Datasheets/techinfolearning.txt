@@ -24,15 +24,13 @@ https://en.wikipedia.org/wiki/Language
 
 https://en.wikipedia.org/wiki/Translation
 
-https://en.wikipedia.org/wiki/Corrosion
+https://en.wikipedia.org/wiki/Cathodic_protection
 
 https://en.wikipedia.org/wiki/Discrete_circuit
 
 https://en.wikipedia.org/wiki/ARM_architecture
 
 https://en.wikipedia.org/wiki/Graphics_processing_unit
-
-https://github.com/nvidia/open-gpu-doc
 
 https://en.wikipedia.org/wiki/Telecommunication
 
@@ -77,6 +75,8 @@ https://en.wikipedia.org/wiki/Priority_queue
 https://en.wikipedia.org/wiki/Computer_multitasking
 
 https://en.wikipedia.org/wiki/Parallel_computing
+
+# https://github.com/nvidia/open-gpu-doc
 
 https://en.wikipedia.org/wiki/IPv6
 
@@ -130,10 +130,6 @@ https://en.wikipedia.org/wiki/Geothermal_energy
 
 https://en.wikipedia.org/wiki/Solar_sail
 
-https://en.wikipedia.org/wiki/Hydrogen-moderated_self-regulating_nuclear_power_module
-
-https://en.wikipedia.org/wiki/Generation_IV_reactor
-
 https://en.wikipedia.org/wiki/Messier_13
 
 https://en.wikipedia.org/wiki/Messier_39
@@ -144,13 +140,13 @@ https://en.wikipedia.org/wiki/Quasar
 
 https://en.wikipedia.org/wiki/Active_galactic_nucleus
 
+https://en.wikipedia.org/wiki/Dark_energy
+
 https://www.universetoday.com/139477/how-an-advanced-civilization-could-stop-dark-energy-from-preventing-their-future-exploration/
 
 https://en.wikipedia.org/wiki/Entropy#Relating_entropy_to_energy_usefulness
 
 https://en.wikipedia.org/wiki/Quantum_chromodynamics
-
-https://en.wikipedia.org/wiki/Dark_energy
 
 https://books.google.ca/books?id=RMEhAwAAQBAJ&pg=PA547&lpg=PA547&dq=13.13+star+systems&source=bl&ots=ows_Tw2sG8&sig=ACfU3U2WpROm4BbSzxUZOQPpasNN9KK0iQ&hl=en&sa=X&ved=2ahUKEwiQmcnN9ZfnAhVE1VkKHeRBBCEQ6AEwDXoECBEQAQ
 
