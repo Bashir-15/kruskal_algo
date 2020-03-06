@@ -32,7 +32,7 @@ https://en.wikipedia.org/wiki/Telecommunication
 
 https://en.wikipedia.org/wiki/Computer_security
 
-https://en.wikipedia.org/wiki/Network_architecture
+https://en.wikipedia.org/wiki/Network_topology
 
 https://en.wikipedia.org/wiki/Firewall_(computing)
 
