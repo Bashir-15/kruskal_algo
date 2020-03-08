@@ -126,6 +126,8 @@ https://en.wikipedia.org/wiki/Cyber-physical_system
 
 https://energyhub.org/efficiency/
 
+https://en.wikipedia.org/wiki/Fusion_power
+
 https://en.wikipedia.org/wiki/Solar_power
 
 https://en.wikipedia.org/wiki/Geothermal_energy
@@ -159,6 +161,8 @@ https://en.wikipedia.org/wiki/Space_exploration
 https://en.wikipedia.org/wiki/Kepler-186f
 
 https://en.wikipedia.org/wiki/Faster-than-light
+
+https://en.wikipedia.org/wiki/Spacecraft_propulsion
 
 https://en.wikipedia.org/wiki/Alcubierre_drive
 
