@@ -126,7 +126,11 @@ https://en.wikipedia.org/wiki/Cyber-physical_system
 
 https://energyhub.org/efficiency/
 
+https://en.wikipedia.org/wiki/Power_engineering
+
 https://en.wikipedia.org/wiki/Fusion_power
+
+https://en.wikipedia.org/wiki/Cold_fusion
 
 https://en.wikipedia.org/wiki/Solar_power
 
