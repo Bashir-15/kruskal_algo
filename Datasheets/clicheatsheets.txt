@@ -4,6 +4,16 @@ https://developer.android.com/guide
 
 https://linuxconfig.org/
 
+https://dart.dev/tutorials
+
+https://kotlinlang.org/docs/reference/
+
+https://www.rust-lang.org/learn
+
+https://docs.python.org/3/
+
+https://www.cprogramming.com/
+
 https://docs.netgate.com/manuals/pfsense/en/latest/the-pfsense-book.pdf
 
 https://files.fosswire.com/2007/08/fwunixref.pdf
@@ -11,8 +21,6 @@ https://files.fosswire.com/2007/08/fwunixref.pdf
 https://gist.github.com/steakknife/77619edfa67c501c8aa0
 
 https://www.comparitech.com/net-admin/powershell-cheat-sheet/
-
-https://www.python-course.eu/python3_recursive_functions.php
 
 https://curiousprogrammer.io/blog/cisco-asa-cheat-sheet
 
