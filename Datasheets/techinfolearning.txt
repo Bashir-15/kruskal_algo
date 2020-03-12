@@ -72,6 +72,8 @@ https://en.wikipedia.org/wiki/Program_process_monitoring
 
 https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
 
+https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+
 https://en.wikipedia.org/wiki/Queueing_theory
 
 https://en.wikipedia.org/wiki/Priority_queue
