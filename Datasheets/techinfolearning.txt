@@ -60,6 +60,8 @@ https://en.wikipedia.org/wiki/Geometry
 
 https://en.wikipedia.org/wiki/CGAL
 
+https://en.wikipedia.org/wiki/List_of_Wenninger_polyhedron_models
+
 https://en.wikipedia.org/wiki/Regular_expression
 
 https://en.wikipedia.org/wiki/Programming_language
