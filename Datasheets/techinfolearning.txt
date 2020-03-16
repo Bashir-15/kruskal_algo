@@ -94,6 +94,8 @@ https://en.wikipedia.org/wiki/Parallel_computing
 
 https://en.wikipedia.org/wiki/IPv6
 
+https://en.wikipedia.org/wiki/Quantum_supremacy
+
 https://en.wikipedia.org/wiki/%CE%A9-automaton
 
 https://en.wikipedia.org/wiki/Linear_temporal_logic
