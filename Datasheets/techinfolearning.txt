@@ -60,6 +60,8 @@ https://en.wikipedia.org/wiki/Geometry
 
 https://en.wikipedia.org/wiki/CGAL
 
+https://en.wikipedia.org/wiki/Complete_quadrangle
+
 https://en.wikipedia.org/wiki/Tetrahedron
 
 https://en.wikipedia.org/wiki/600-cell
