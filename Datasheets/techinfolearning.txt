@@ -60,7 +60,11 @@ https://en.wikipedia.org/wiki/Geometry
 
 https://en.wikipedia.org/wiki/CGAL
 
-https://en.wikipedia.org/wiki/List_of_Wenninger_polyhedron_models
+https://en.wikipedia.org/wiki/Complete_quadrangle
+
+https://en.wikipedia.org/wiki/Tetrahedron
+
+https://en.wikipedia.org/wiki/600-cell
 
 https://en.wikipedia.org/wiki/Regular_expression
 
@@ -90,6 +94,10 @@ https://en.wikipedia.org/wiki/Parallel_computing
 
 https://en.wikipedia.org/wiki/IPv6
 
+https://en.wikipedia.org/wiki/Quantum_computing
+
+https://en.wikipedia.org/wiki/Quantum_supremacy
+
 https://en.wikipedia.org/wiki/%CE%A9-automaton
 
 https://en.wikipedia.org/wiki/Linear_temporal_logic
@@ -118,9 +126,7 @@ https://en.wikipedia.org/wiki/Asteroidal_water
 
 https://en.wikipedia.org/wiki/Asteroid_mining
 
-https://en.wikipedia.org/wiki/Star_system#Hierarchical_systems
-
-https://en.wikipedia.org/wiki/Star_system#Triple_star_systems
+https://en.wikipedia.org/wiki/Star_system
 
 # https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
 
@@ -217,6 +223,8 @@ https://www.sciencedaily.com/releases/2015/04/150430170750.htm
 https://en.wikipedia.org/wiki/Cell_biology
 
 https://en.wikipedia.org/wiki/Assimilation_(biology)
+
+https://en.wikipedia.org/wiki/Molecular_dynamics
 
 https://en.wikipedia.org/wiki/Biochemistry
 
