@@ -132,6 +132,9 @@ https://en.wikipedia.org/wiki/Star_system
 
 # https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
 
+https://en.wikipedia.org/wiki/Solar_power
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229945
+
 https://en.wikipedia.org/wiki/Chemical_engineering
 
 https://en.wikipedia.org/wiki/Interstellar_travel
