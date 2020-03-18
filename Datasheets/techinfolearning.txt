@@ -33,6 +33,7 @@ https://en.wikipedia.org/wiki/Graphics_processing_unit
 https://en.wikipedia.org/wiki/Telecommunication
 
 https://en.wikipedia.org/wiki/Computer_security
+https://redcanary.com/threat-detection-report/introduction/
 
 https://en.wikipedia.org/wiki/Network_topology
 
