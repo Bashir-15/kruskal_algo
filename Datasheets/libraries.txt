@@ -8,6 +8,18 @@ https://github.com/MDAnalysis/mdanalysis
 
 https://github.com/google/jax-md
 
+https://github.com/tensorflow/tensorflow
+
+https://github.com/pybrain/pybrain
+
+https://github.com/pytorch/pytorch
+
+https://github.com/scikit-learn/scikit-learn
+
+https://github.com/keras-team/keras
+
+https://github.com/Theano/Theano
+
 https://github.com/sympy/sympy
 
 https://github.com/vinta/awesome-python
@@ -25,6 +37,10 @@ https://github.com/wention/BeautifulSoup4
 https://github.com/VirusTotal/yara-python
 
 https://github.com/anishida/lis
+
+https://github.com/apache/spark
+
+https://github.com/apache/incubator-mxnet
 
 https://github.com/mysql
 
