@@ -33,6 +33,7 @@ https://en.wikipedia.org/wiki/Graphics_processing_unit
 https://en.wikipedia.org/wiki/Telecommunication
 
 https://en.wikipedia.org/wiki/Computer_security
+https://redcanary.com/threat-detection-report/introduction/
 
 https://en.wikipedia.org/wiki/Network_topology
 
@@ -128,9 +129,15 @@ https://en.wikipedia.org/wiki/Asteroid_mining
 
 https://en.wikipedia.org/wiki/Star_system
 
+https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
+
+https://en.wikipedia.org/wiki/Celestial_Mechanics_and_Dynamical_Astronomy
+
 # https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
 
 # https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
+
+https://en.wikipedia.org/wiki/Wireless_power_transfer
 
 https://en.wikipedia.org/wiki/Solar_power
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229945
