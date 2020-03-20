@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/Laws_of_robotics
 https://en.wikipedia.org/wiki/Efficiency
 
 https://en.wikipedia.org/wiki/Synchronization_(computer_science)
+http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
 
 https://en.wikipedia.org/wiki/Overhead_(computing)
 
