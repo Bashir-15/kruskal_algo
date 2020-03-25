@@ -3,6 +3,7 @@
 https://en.wikipedia.org/wiki/Laws_of_robotics
 
 https://en.wikipedia.org/wiki/Efficiency
+https://m.phys.org/news/2020-03-key-energy-efficient-electronics.html
 
 https://en.wikipedia.org/wiki/Synchronization_(computer_science)
 http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
