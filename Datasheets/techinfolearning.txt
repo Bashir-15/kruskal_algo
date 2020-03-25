@@ -100,6 +100,8 @@ https://en.wikipedia.org/wiki/Deep_learning
 
 https://en.wikipedia.org/wiki/Artificial_intelligence
 
+https://en.wikipedia.org/wiki/AI_accelerator
+
 # https://github.com/nvidia/open-gpu-doc
 
 https://en.wikipedia.org/wiki/IPv6
