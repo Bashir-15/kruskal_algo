@@ -94,6 +94,14 @@ https://en.wikipedia.org/wiki/Computer_multitasking
 
 https://en.wikipedia.org/wiki/Parallel_computing
 
+https://en.wikipedia.org/wiki/Artificial_neural_network
+
+https://en.wikipedia.org/wiki/Deep_learning
+
+https://en.wikipedia.org/wiki/Artificial_intelligence
+
+https://en.wikipedia.org/wiki/AI_accelerator
+
 # https://github.com/nvidia/open-gpu-doc
 
 https://en.wikipedia.org/wiki/IPv6
