@@ -8,6 +8,8 @@ https://developer.android.com/guide
 
 https://linuxconfig.org/
 
+https://docs.julialang.org/en/v1/
+
 https://dart.dev/tutorials
 
 https://kotlinlang.org/docs/reference/
