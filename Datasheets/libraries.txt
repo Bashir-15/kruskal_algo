@@ -38,6 +38,8 @@ https://github.com/VirusTotal/yara-python
 
 https://github.com/anishida/lis
 
+https://github.com/topics/linear-algebra-library
+
 https://github.com/apache/spark
 
 https://github.com/apache/incubator-mxnet
