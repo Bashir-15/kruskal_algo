@@ -71,6 +71,8 @@ https://en.wikipedia.org/wiki/Complete_quadrangle
 
 https://en.wikipedia.org/wiki/Tetrahedron
 
+https://en.wikipedia.org/wiki/Tetrahedral-octahedral_honeycomb
+
 https://en.wikipedia.org/wiki/600-cell
 
 https://en.wikipedia.org/wiki/Regular_expression
