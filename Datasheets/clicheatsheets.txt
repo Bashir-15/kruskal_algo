@@ -18,6 +18,8 @@ https://kotlinlang.org/docs/reference/
 
 https://www.rust-lang.org/learn
 
+https://keras.io/
+
 https://docs.python.org/3/
 
 https://www.cprogramming.com/
