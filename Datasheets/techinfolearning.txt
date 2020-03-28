@@ -32,14 +32,17 @@ https://en.wikipedia.org/wiki/Cathodic_protection
 
 https://en.wikipedia.org/wiki/Discrete_circuit
 
-https://en.wikipedia.org/wiki/ARM_architecture
-
 https://en.wikipedia.org/wiki/Graphics_processing_unit
+# https://github.com/nvidia/open-gpu-doc
+
+https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware
+
+https://en.wikipedia.org/wiki/ARM_architecture
 
 https://en.wikipedia.org/wiki/Telecommunication
 
 https://en.wikipedia.org/wiki/Computer_security
-https://redcanary.com/threat-detection-report/introduction/
+# https://redcanary.com/threat-detection-report/introduction/
 
 https://en.wikipedia.org/wiki/Network_topology
 
@@ -105,8 +108,6 @@ https://en.wikipedia.org/wiki/Artificial_intelligence
 
 https://en.wikipedia.org/wiki/AI_accelerator
 
-# https://github.com/nvidia/open-gpu-doc
-
 https://en.wikipedia.org/wiki/IPv6
 
 https://en.wikipedia.org/wiki/Quantum_computing
@@ -146,16 +147,14 @@ https://en.wikipedia.org/wiki/Star_system
 https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
 
 https://en.wikipedia.org/wiki/Celestial_Mechanics_and_Dynamical_Astronomy
-
 # https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
-
 # https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
 
 https://en.wikipedia.org/wiki/Wireless_power_transfer
-https://www.ijera.com/papers/Vol%201%20issue%204/AJ01415061510.pdf
+# https://www.ijera.com/papers/Vol%201%20issue%204/AJ01415061510.pdf
 
 https://en.wikipedia.org/wiki/Solar_power
-https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229945
+# https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229945
 
 https://en.wikipedia.org/wiki/Chemical_engineering
 
@@ -170,7 +169,7 @@ https://en.wikipedia.org/wiki/Power_engineering
 https://en.wikipedia.org/wiki/Neodymium_magnet
 
 https://en.wikipedia.org/wiki/Superconductivity
-https://phys.org/news/2017-03-mystery-superconductor-efficiency.html
+# https://phys.org/news/2017-03-mystery-superconductor-efficiency.html
 
 https://en.wikipedia.org/wiki/Fusion_power
 
@@ -193,18 +192,17 @@ https://en.wikipedia.org/wiki/Quasar
 https://en.wikipedia.org/wiki/Active_galactic_nucleus
 
 https://en.wikipedia.org/wiki/Dark_energy
-
-https://www.universetoday.com/139477/how-an-advanced-civilization-could-stop-dark-energy-from-preventing-their-future-exploration/
+# https://www.universetoday.com/139477/how-an-advanced-civilization-could-stop-dark-energy-from-preventing-their-future-exploration/
 
 https://en.wikipedia.org/wiki/Entropy#Relating_entropy_to_energy_usefulness
 
 https://en.wikipedia.org/wiki/Quantum_chromodynamics
-
-https://books.google.ca/books?id=RMEhAwAAQBAJ&pg=PA547&lpg=PA547&dq=13.13+star+systems&source=bl&ots=ows_Tw2sG8&sig=ACfU3U2WpROm4BbSzxUZOQPpasNN9KK0iQ&hl=en&sa=X&ved=2ahUKEwiQmcnN9ZfnAhVE1VkKHeRBBCEQ6AEwDXoECBEQAQ
+# https://books.google.ca/books?id=RMEhAwAAQBAJ&pg=PA547&lpg=PA547&dq=13.13+star+systems&source=bl&ots=ows_Tw2sG8&sig=ACfU3U2WpROm4BbSzxUZOQPpasNN9KK0iQ&hl=en&sa=X&ved=2ahUKEwiQmcnN9ZfnAhVE1VkKHeRBBCEQ6AEwDXoECBEQAQ
 
 https://www.space.com/22509-binary-stars.html
 
 https://en.wikipedia.org/wiki/Space_exploration
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255574/
 
 https://en.wikipedia.org/wiki/Kepler-186f
 
@@ -293,8 +291,6 @@ https://en.wikipedia.org/wiki/Network
 https://en.wikipedia.org/wiki/Light
 
 https://en.wikipedia.org/wiki/Projection
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255574/
 
 https://www.google.com/earth/
 
