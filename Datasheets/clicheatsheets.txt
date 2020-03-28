@@ -19,6 +19,7 @@ https://kotlinlang.org/docs/reference/
 https://www.rust-lang.org/learn
 
 https://keras.io/
+https://towardsdatascience.com/a-start-to-finish-guide-to-building-deep-neural-networks-in-keras-3d54de097a75?gi=4c9d94e5944c
 
 https://docs.python.org/3/
 
