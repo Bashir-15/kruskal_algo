@@ -108,6 +108,8 @@ https://en.wikipedia.org/wiki/Artificial_intelligence
 
 https://en.wikipedia.org/wiki/AI_accelerator
 
+https://en.wikipedia.org/wiki/Nanotechnology_(journal)
+
 https://en.wikipedia.org/wiki/IPv6
 
 https://en.wikipedia.org/wiki/Quantum_computing
@@ -136,35 +138,22 @@ https://en.wikipedia.org/wiki/Golden_ratio
 
 https://en.wikipedia.org/wiki/Euler_method
 
-https://en.wikipedia.org/wiki/Radiation_protection
-
-https://en.wikipedia.org/wiki/Asteroidal_water
-
-https://en.wikipedia.org/wiki/Asteroid_mining
-
-https://en.wikipedia.org/wiki/Star_system
-
-https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
-
-https://en.wikipedia.org/wiki/Celestial_Mechanics_and_Dynamical_Astronomy
-# https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
-# https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
+https://en.wikipedia.org/wiki/Power_engineering
+# https://energyhub.org/efficiency/
 
 https://en.wikipedia.org/wiki/Wireless_power_transfer
 # https://www.ijera.com/papers/Vol%201%20issue%204/AJ01415061510.pdf
 
 https://en.wikipedia.org/wiki/Solar_power
 # https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229945
+# https://news.energysage.com/what-are-the-most-efficient-solar-panels-on-the-market/
+
+https://en.wikipedia.org/wiki/Geothermal_energy
 
 https://en.wikipedia.org/wiki/Chemical_engineering
 
-https://en.wikipedia.org/wiki/Interstellar_travel
-
 https://en.wikipedia.org/wiki/Cyber-physical_system
-
-https://energyhub.org/efficiency/
-
-https://en.wikipedia.org/wiki/Power_engineering
+# https://www.manufacturingtomorrow.com/article/2016/07/what-super-efficient-manufacturing-looks-like/8262
 
 https://en.wikipedia.org/wiki/Neodymium_magnet
 
@@ -175,11 +164,40 @@ https://en.wikipedia.org/wiki/Fusion_power
 
 https://en.wikipedia.org/wiki/Cold_fusion
 
-https://en.wikipedia.org/wiki/Solar_power
+https://en.wikipedia.org/wiki/Radiation_protection
 
-https://en.wikipedia.org/wiki/Geothermal_energy
+https://en.wikipedia.org/wiki/Asteroidal_water
+
+https://en.wikipedia.org/wiki/Asteroid_mining
+
+https://en.wikipedia.org/wiki/Space_exploration
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255574/
+
+https://en.wikipedia.org/wiki/Spacecraft_propulsion
+
+https://en.wikipedia.org/wiki/Interstellar_travel
+
+https://en.wikipedia.org/wiki/Faster-than-light
 
 https://en.wikipedia.org/wiki/Solar_sail
+
+https://en.wikipedia.org/wiki/Alcubierre_drive
+
+https://en.wikipedia.org/wiki/RF_resonant_cavity_thruster
+
+https://en.wikipedia.org/wiki/Electrically_powered_spacecraft_propulsion
+
+https://en.wikipedia.org/wiki/Photon_rocket
+
+http://www.hpcc-space.com/publications/documents/AIAA-2009-5069-885Gravitational_Field_Propulsion.pdf
+
+https://worldbuilding.stackexchange.com/questions/23683/what-is-the-most-effective-way-to-brake-from-interstellar-speeds
+
+https://en.wikipedia.org/wiki/Star_system
+
+https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
+
+https://en.wikipedia.org/wiki/Celestial_Mechanics_and_Dynamical_Astronomy
 
 https://en.wikipedia.org/wiki/Messier_13
 
@@ -201,26 +219,7 @@ https://en.wikipedia.org/wiki/Quantum_chromodynamics
 
 https://www.space.com/22509-binary-stars.html
 
-https://en.wikipedia.org/wiki/Space_exploration
-# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5255574/
-
 https://en.wikipedia.org/wiki/Kepler-186f
-
-https://en.wikipedia.org/wiki/Faster-than-light
-
-https://en.wikipedia.org/wiki/Spacecraft_propulsion
-
-https://en.wikipedia.org/wiki/Alcubierre_drive
-
-https://en.wikipedia.org/wiki/RF_resonant_cavity_thruster
-
-https://en.wikipedia.org/wiki/Electrically_powered_spacecraft_propulsion
-
-https://en.wikipedia.org/wiki/Photon_rocket
-
-http://www.hpcc-space.com/publications/documents/AIAA-2009-5069-885Gravitational_Field_Propulsion.pdf
-
-https://worldbuilding.stackexchange.com/questions/23683/what-is-the-most-effective-way-to-brake-from-interstellar-speeds
 
 https://en.wikipedia.org/wiki/Life
 
