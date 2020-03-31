@@ -10,6 +10,8 @@ https://developer.android.com/guide
 
 https://linuxconfig.org/
 
+https://www.kernel.org/doc/html/latest/
+
 https://docs.julialang.org/en/v1/
 
 https://dart.dev/tutorials
