@@ -8,6 +8,8 @@ https://www.roesen.org/files/ipv6_cheat_sheet.pdf
 
 https://developer.android.com/guide
 
+https://www.linode.com/docs/security/using-fail2ban-to-secure-your-server-a-tutorial/
+
 https://linuxconfig.org/
 
 https://www.kernel.org/doc/html/latest/
