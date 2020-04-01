@@ -1,55 +1,61 @@
 # Libraries
 
+# Linux kernel source
 https://github.com/torvalds/linux
 
+# Terraform datacentre infrastructure source
 https://github.com/hashicorp/terraform
 
+# Geometry Algorithms Library source
 https://github.com/CGAL/cgal
 
+# Molecular Dynamics Library source
 https://github.com/MDAnalysis/mdanalysis
-
 https://github.com/google/jax-md
 
+# Machine Learning source
 https://github.com/tensorflow/tensorflow
-
 https://github.com/pybrain/pybrain
-
 https://github.com/pytorch/pytorch
-
 https://github.com/scikit-learn/scikit-learn
-
 https://github.com/keras-team/keras
-
 https://github.com/Theano/Theano
 
+# Algebra library source
 https://github.com/sympy/sympy
-
-https://github.com/vinta/awesome-python
-
-https://github.com/scrapy/scrapy
-
-https://github.com/secdev/scapy
-
-https://github.com/johanlundberg/python-nmap
-
-https://github.com/realpython/list-of-python-api-wrappers
-
-https://github.com/wention/BeautifulSoup4
-
-https://github.com/VirusTotal/yara-python
-
 https://github.com/anishida/lis
 
+# Python frameworks, libraries and modules
+https://github.com/vinta/awesome-python
+
+# Web crawling and scraping framework
+https://github.com/scrapy/scrapy
+
+# Packet manipulation source
+https://github.com/secdev/scapy
+
+# Nmap for python
+https://github.com/johanlundberg/python-nmap
+
+# Python API wrappers
+https://github.com/realpython/list-of-python-api-wrappers
+
+# Data pulling lib for HTML/XML
+https://github.com/wention/BeautifulSoup4
+
+# Identification and classification of malware
+https://github.com/VirusTotal/yara-python
+
+# Apache analytics
 https://github.com/apache/spark
 
+# Apache deeplearning
 https://github.com/apache/incubator-mxnet
 
+# SQL
 https://github.com/mysql
-
 https://github.com/postgres/postgres
-
 https://github.com/codingo/NoSQLMap
 
+# CUDA C memory management for deep learning
 https://github.com/NVIDIA/cnmem
-
-https://www.sympy.org/en/index.html
