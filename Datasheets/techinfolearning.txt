@@ -1,5 +1,7 @@
 # Technology/Information/Learning
 
+https://en.wikipedia.org/wiki/Network_science
+
 https://en.wikipedia.org/wiki/Foresight_(futures_studies)
 
 https://en.wikipedia.org/wiki/Laws_of_robotics
@@ -113,6 +115,7 @@ https://en.wikipedia.org/wiki/Nanotechnology_(journal)
 https://en.wikipedia.org/wiki/IPv6
 
 https://en.wikipedia.org/wiki/Quantum_computing
+#https://phys.org/news/2020-03-tiny-optical-cavity-quantum-networks.amp
 
 https://en.wikipedia.org/wiki/Quantum_supremacy
 
